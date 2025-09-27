@@ -1,0 +1,12 @@
+# Python cache files
+__pycache__/
+*.pyc
+
+# Data and secrets
+data/*.csv
+.env
+*.key
+
+# IDE files
+.vscode/
+.idea/
