@@ -1,1 +1,0 @@
-# This text file is to show that we are able to stage changes, commit changes, and push changes.
