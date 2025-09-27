@@ -11,7 +11,8 @@ __pycache__/
 *.pyc
 
 # Data and secrets
-data/*.csv
+data/
+output/
 .env
 *.key
 
