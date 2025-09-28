@@ -10,12 +10,6 @@ cat > .gitignore << 'EOF'
 __pycache__/
 *.pyc
 
-# Data and secrets
-data/
-output/
-.env
-*.key
-
 # IDE files
 .vscode/
 .idea/
