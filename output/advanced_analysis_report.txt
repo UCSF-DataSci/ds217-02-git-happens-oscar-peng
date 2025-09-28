@@ -1,0 +1,19 @@
+Student Data Analysis Report
+============================
+Basic Analytics:
+Average Grade: 86.9
+Highest Grade: 95
+Lowest Grade: 78
+Total Students: 9
+
+Grade Distribution:
+A (90-100): 3
+B (80-89): 5
+C (70-79): 1
+D (60-69): 0
+F (0-59): 0
+
+Students by Subject:
+Math: 3
+Science: 3
+History: 3
